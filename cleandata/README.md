@@ -10,9 +10,12 @@ under RStudio work directory.
 #3. Run scripts 
 Type source("run_analysis.R") in RStudio consle to run the script you would see as following:
 
-[1] "reading test data..." 
+[1] "reading test data..."
+
 [1] "reading train data..."
+
 [1] "merging test and train data into one dataset..."
+
 [1] "creating the tidy data and writing to tidydata.txt file..."
 
 #4. Check results
